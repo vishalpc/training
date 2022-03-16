@@ -72,6 +72,7 @@ class CharactersInString
                   break
                 end}
             }
+
             return string3
           rescue Exception => e
             puts e.message
